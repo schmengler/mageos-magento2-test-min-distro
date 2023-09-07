@@ -147,7 +147,6 @@
         "magento/module-cookie": "*",
         "magento/module-cron": "*",
         "magento/module-currency-symbol": "*",
-        "magento/module-customer": "*",
         "magento/module-customer-analytics": "*",
         "magento/module-customer-import-export": "*",
         "magento/module-deploy": "*",
