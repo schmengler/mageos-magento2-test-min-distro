@@ -321,7 +321,6 @@
         "magento/module-wishlist-analytics": "*",
         "magento/theme-adminhtml-backend": "*",
         "magento/theme-frontend-blank": "*",
-        "magento/theme-frontend-luma": "*",
         "magento/language-de_de": "*",
         "magento/language-en_us": "*",
         "magento/language-es_es": "*",
